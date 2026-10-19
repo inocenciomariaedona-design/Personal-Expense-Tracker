@@ -1,0 +1,19 @@
+{
+  "accounts": {
+    "Cash": 798378.0,
+    "Bank": 0.0,
+    "Digital Wallet": 0.0,
+    "Savings": 0.0
+  },
+  "entries": [
+    {
+      "id": 1,
+      "date": "2026-10-20",
+      "type": "expense",
+      "category": "Food",
+      "account": "Cash",
+      "amount": 78.0,
+      "note": "cx"
+    }
+  ]
+}
